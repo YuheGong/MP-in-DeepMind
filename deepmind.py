@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from ball_in_cup import BICEnv
+from envs.ball_in_cup import BICEnv
 from env_wrapper import DMEnvWrapper
 import cma
 
