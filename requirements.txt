@@ -1,0 +1,8 @@
+-e git+https://github.com/ALRhub/motion_primitive_env_api.git@main#egg=motion_primitive_env_api
+-e git+https://github.com/YuheGong/alr_envs.git@master#egg=alr_envs
+cma
+pyyaml
+mujoco_py
+dm_control
+
+
